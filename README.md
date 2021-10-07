@@ -4,7 +4,7 @@
 
 <h2 align="center">Descrição do Projeto</h2>
 
-O projeto SEBIX consiste em alunos iniciantes do grupo ADA recriarem o famoso T-Rex Game utilizando Arduino e modelando digitalmente,e em 3D, uma carcaça para o protótipo funcional.
+O projeto SEBIX consiste em alunos iniciantes do grupo ADA recriarem o famoso T-Rex Game utilizando Arduino e modelando digitalmente, e em 3D, uma carcaça para o protótipo funcional.
 
 <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/67606081/136465914-563add4b-2ab8-496a-9c46-51d081d7d07e.gif" width="1000" alt=""/>
 
