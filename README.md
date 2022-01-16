@@ -22,4 +22,4 @@ O projeto SEBIX consiste em alunos iniciantes do grupo ADA recriarem o famoso T-
 
 Utilizando a plataforma Tinkercad, foi possivem construir, virtualmente, o protótipo da montagem do arduino e suas peças para a recriação do jogo.
 
-<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/67606081/136470549-05f6490d-4558-4cba-a0c8-0147c2651a8d.png" width="1000" alt=""/>
+<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/67606081/149643384-9acb58b6-533f-4488-ba26-e45ea0abe94f.jpg" width="1000" alt=""/>
