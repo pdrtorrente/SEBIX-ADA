@@ -17,7 +17,7 @@ O projeto SEBIX consiste em alunos iniciantes do grupo ADA recriarem o famoso T-
 - 1 Buzzer
 - 1 Protoboard
 - 2 Push Button
-- 3 Resistores de 1kOhm
+- 2 Resistores de 1kOhm
 - 1 Potenciômetro de 250 kOhm
 
 Utilizando a plataforma Tinkercad, foi possivem construir, virtualmente, o protótipo da montagem do arduino e suas peças para a recriação do jogo.
